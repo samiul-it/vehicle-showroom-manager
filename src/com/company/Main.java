@@ -5,19 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-//	    VehicleShowroom vehicleShowroom = new VehicleShowroom();
-//            Vehicle normalVehicle = new NormalVehicle("123",EngineType.DISEL, 10, 10);
-//            Vehicle sportsVehicle = new SportsVehicle("455", EngineType.OIL, 50, 15, true);
-//            Vehicle heavyVehicle =new HeavyVehicle("145", EngineType.DISEL, 400, 25, 500);
-//            //vehicleShowroom.addVehicle(normalVehicle);
-//            vehicleShowroom.addVehicle(sportsVehicle);
-//            vehicleShowroom.addVehicle(heavyVehicle);
-//            
-//            System.out.println("Total Visitors: " + vehicleShowroom.getVisitors());
-//            
-//            vehicleShowroom.showVehicleList();
-            //vehicleShowroom.removeVehicle(heavyVehicle);
-            //vehicleShowroom.showVehicleList();
+
 
             
              System.out.println("Welcome to Showroom Manager!");
