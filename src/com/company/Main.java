@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
-
-            
+        
              System.out.println("Welcome to Showroom Manager!");
              Scanner sc=new Scanner(System.in);
              int decider;
@@ -19,9 +17,7 @@ public class Main {
              int tyre_size;
              float weight;
              String model_to_remove;
-             
-             
-             
+              
              while(true){
                  System.out.println("Press-1 to add Car|| "
                     + "Press-2 to Show Car List|| "
@@ -112,8 +108,6 @@ public class Main {
             default:
                 break;
         } 
-        } 
-            
-            
+        }          
     }
 }
